@@ -48,9 +48,9 @@ projects by following the links in this file or by browsing the repository.
     appealing UI. Visit this site and you are up for some cool slides and
     swipes.(Open the men from top menu Icon).
 
-    **[Learn More](/ProjectPage/README.md)** about this project code
+    **[Learn More](/ProjectPage)** about this project code
 
-    ![Demo Image of Project Page](/ProjectPage/project.png)
+    ![Demo Image of Project Page](/ProjectPage/Project.png)
 
 5. ## Homepage - 2
     This was my next Homepage after Homepage-1 (I know design degraded a bit). It's
@@ -66,7 +66,7 @@ projects by following the links in this file or by browsing the repository.
 # Back End
 
 1. ## Sarvh
-    
+
 
 ## Mini Projects
 
