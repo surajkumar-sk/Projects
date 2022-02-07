@@ -1,0 +1,20 @@
+<svg class='bg_svg' xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1366.5 768.5">
+  <defs>
+    <style>
+      .cls-1-bg-svg {
+        fill: url(#linear-gradient-bg-svg);
+      }
+    </style>
+    <linearGradient id="linear-gradient-bg-svg" y1="384.25" x2="1366.5" y2="384.25" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4fc0da" />
+      <stop offset="1" stop-color="#207ab9" />
+    </linearGradient>
+  </defs>
+  <title>Background Image</title>
+  <g>
+    <g>
+      <path class="cls-1-bg-svg"
+        d="M.5,565.5c12.61112,22.68726,35.40474,56.7663,74,86,57.1981,43.32428,116.84323,51.57263,152,56,117.45859,14.79175,152.37927-31.37433,242-12,56.66278,12.24945,100.36633,43.16949,132,73q382.75-.25,765.5-.5.24995-339.25.5-678.5c-15.65955,16.76978-40.67151,37.92278-74,42-51.90161,6.34933-80.4176-34.04-130-58-96.174-46.47476-162.37122,21.64978-294,16-56.59515-2.42918-138.9599-19.08363-238-89L0,0Z" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+{
+  "frontend":{
+    "id":"frontend",
+    "name":"Front End",
+    "color_1":"#2193b0",
+    "color_2":"#6dd5ed",
+    "def_image":"assets/default",
+    "data":[
+      {
+        "image":"/projects/assets/Mystery_island.png",
+        "heading":"Mysterious Land",
+        "paragraph":"This page is themed as a mysterious island floating in an unknow multiverse displaying components of its world.",
+        "demo":1,
+        "demo_link":"",
+        "code_link":""
+      },{
+        "image":"/projects/assets/Scrollable_story.png",
+        "heading":"Scrollable Story",
+        "paragraph":"This page is themed to display images and motions based on user scroll, Keep scrolling to finish the story.",
+        "demo":1,
+        "demo_link":"",
+        "code_link":""
+      },
+      {
+        "image":"/projects/assets/Swipe_n_slide.png",
+        "heading":"Swipe and Slide",
+        "paragraph":"This page is themed to show swiping and sliding effects for displaying set of information on different sections",
+        "demo":1,
+        "demo_link":"",
+        "code_link":""
+      }
+      ]
+  },
+  "backend":{
+    "id":"backend",
+    "name":"Back End",
+    "color_1":"#4f54da",
+    "color_2":"#7420b9",
+    "def_image":"/projects/assets/maya.gif",
+    "data":[
+      {
+        "image":"/projects/assets/code.gif",
+        "heading":"Authentication Code",
+        "paragraph":"I made it easy for developers to impliment Authentication to there website by just importing few modules which reduces the lines of code they need to write",
+        "demo":0,
+        "code_link":""
+      }
+    ]
+  },
+  "python":{
+    "id":"python",
+    "name":"Python",
+    "color_1":"#000428",
+    "color_2":"#004e92",
+    "def_image":"/projects/assets/default",
+    "data":[
+      {
+        "image":"/projects/assets/android.gif",
+        "heading":"test project",
+        "paragraph":"I made it easy for developers to test a python page",
+        "demo":0,
+        "code_link":""
+      }
+    ]
+  }
+}

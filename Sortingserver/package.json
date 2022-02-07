@@ -1,0 +1,25 @@
+{
+  "name": "list_sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krohit261/list_sort.git"
+  },
+  "author": "Surajkumar-sk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krohit261/list_sort/issues"
+  },
+  "homepage": "https://github.com/krohit261/list_sort#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.4",
+    "path": "^0.12.7",
+    "xlsx": "^0.17.4"
+  }
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link href='stylesheet.css' rel="stylesheet" type="text/css"> 
+</head>
+<body>
+  
+  <div class='area active'>
+    <p>s</p>
+  </div>
+  <div class='area unactive'>
+    <p>p</p>
+  </div>
+  <div class='preventClick'></div>
+  <div class='btns'>
+    <p class='btn'>S</p>
+    <p class='btn'>E</p>
+    <p class='btn'>P</p>
+    <p class='btn'>T</p>
+    <p class='btn'>E</p>
+    <p class='btn'>R</p>
+  </div>
+  <svg class='rect-svg' >
+    <defs>
+      <clipPath id='rect-clipPath'>
+        <rect id='rect-clipPath-rect' x='0' y='0' width="100%" height="100%"/>
+      </clipPath>
+    </defs>
+  </svg>
+  <img src='assets/bg_2.svg'>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.1/gsap.min.js"></script>
+  <script src='index_script.js'></script>
+</body>
+</html>
