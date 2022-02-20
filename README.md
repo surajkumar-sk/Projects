@@ -1,4 +1,4 @@
-**[Go To HomePage](https://www.surajkumar-sk.ga)**
+**[Go To HomePage](https://www.surajkumarsk.me)**
 
 
 **Currently I have divided my projects into three sections**
@@ -90,7 +90,14 @@ projects by following the links in this file or by browsing the repository.
 
 # Mini Projects
 
-1. ## Instagram Bot
+1. ## Feeds Page
+    This project is a basic feeds page with features like lazy loading, like ,comment , remove like and comment, and basic auth(frontend auth I didn't wanna complicate the project or divert the purpose of project). 
+
+    **[Learn More](/feedsPage)** about this project
+
+    ![Feeds page](/feedsPage/feedpage.PNG)  
+
+2. ## Instagram Bot
     When i was learning about servers and data bases, I realized every action that we
     do on instagram is basically an api calls. So , why not read the api calls and make a
     bot(I heard it helps a lot in marketing). So i made this project around that time.
@@ -101,7 +108,7 @@ projects by following the links in this file or by browsing the repository.
 
     ![Instagram bot logo](/Instabot/instabot.jpg)  
 
-2. ## Form Data to Certificates
+3. ## Form Data to Certificates
     My father is a part of a Teachers Group named "Navodaya Granti". They are a huge
     Group with 1000+ teachers. Major part of there activity was to quiz teachers and
     provide them with certificates. The quiz was taken using Google form, there were a lot
@@ -116,7 +123,7 @@ projects by following the links in this file or by browsing the repository.
 
     ![Form Logo](/Certificates/forms.jpg)
 
-3. ## Sorting Excel Data
+4. ## Sorting Excel Data
     There was a need for sorting Telangana Teachers data depending on a list of factors, 
     I implemented a server to take an excel file as an input and had the logic and parameters
     for sorting data hard coded in js. The actual sorting was done manually by some officers
@@ -127,7 +134,7 @@ projects by following the links in this file or by browsing the repository.
 
     ![sorting image](/Sortingserver/sorting.png)
 
-4. ## Teachers Info
+5. ## Teachers Info
     This website takes district name and designation as a form data and returns all
     the teachers details who work in that district under that designation. Behind
     the scene the server just has a Search algorithm that takes form data does
