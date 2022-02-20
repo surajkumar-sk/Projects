@@ -11,16 +11,17 @@ hired as a Freelance Web Dev Team lead in December 2021. There were a lot of Cha
 to solve while developing Sarvh's Webiste. It's still a work under progress But there is Beeta Version of
 Site that was Launched in the Month of November [[link](https://sarvh.herokuapp.com)] . 
 
-**Features Launched Publically that I worked on**
+- Sarvh is a basically an integration of Social media and Ecommerce website providing a social media platform experience while shopping to their users.
 
-- All the Designing work was done by Designers Team.
+- Initially when I joined as an intern, Sarvh Architecture was Heroku as backend, MongoDB for Database and ReactJs, Redux and few other libraries for frontend.
 
-- I implemented Search functionality in sarvh using ElasticSearch(this is not shown in Beta version for Security reasons)
+- As an intern I built a lot of reusable web components with react which were device responsive and made sure its performance was at best, because in react a single unhandled hook or state variable can degrade the apps performance drastically. I managed Redux along with the team.
 
-- I hosted the website on Netlify, heroku , AWS to measure the Costs and other factors to pick a best one 
-for different kind of Functionalities
+- Costs of maintaining a server at heroku along with MongoDB were pretty high and scalability was not cheap too especially for a startup like Sarvh where traffic can be unpredictable and money spent should be minimum without compromising on performance or features.
 
-- I had to code the front end and make it responsive to work on all devices and browsers.
+- AWS pay per use and auto scale model was best suited for this type of startup. When I finished my internship I proposed to shift the Database from MongoDB to dynamoDB and server from heroku to EC2 instance of AWS. I also proposed to use Elastic search which I later taught can be replaced with a simple search algorithm on backend.
 
-- I implemented a lot of Backend Functionality with team including like, save, cart, login and others.
+- As a team lead I along with the team planned and Integrated DynamoDB, EC2 and S3 making sure that we incur minimum costs for read and write on DynamoDB and S3 to reduce costs of usage.
+
+- visit the Beta version of SARVH (launched when I was an intern. I worked on a lot of React web Component being used.)
 
